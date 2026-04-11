@@ -1,0 +1,35 @@
+import java.util.Scanner;
+import java.lang.ArithmeticException;
+public class DeadendOp{
+    public static void main(String[] args){
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the First Number : ");
+        int num1 = sc.nextInt();
+
+        System.out.println("Enter the Second Number: ");
+        int num2 = sc.nextInt();
+
+        int max = (num1 > num2)? num1:num2;
+        System.out.println("The Max :" + max);
+        
+        if (num2 ==0){
+            System.out.println("Infinity and Invalid");
+        }
+        
+
+        if ((num1 !=0) && (num2 != 0)){
+            System.out.println("Addition: " +(num1 + num2));
+            System.out.println("Subtraction: "+(num1-num2));
+            System.out.println("AND op:" +(num1 & num2));
+        }
+        
+        else if (num1 > num2){
+            System.out.println("Division: " +(num1/num2) );
+        }
+        
+        else{
+            System.out.println("Invalid Values to Operation Perform");
+        }
+    }
+}
