@@ -4,7 +4,7 @@ public class trial{
         int Score = 32;
         int Total = 50;
 
-        double Totalscore = (double) Score / Total * 100.0d;
+        double Totalscore = (double) Score / Total * 100.0f;
         System.out.println("ur scoree is : " + Totalscore);
     }
 }
