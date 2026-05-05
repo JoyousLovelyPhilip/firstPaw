@@ -17,7 +17,7 @@ public class Armstrong{
     
         }
         else {
-            System.out.println(" Sorry Bruh! The Number is not Armstrong, Better Luck Try again ;)");
+            System.out.println(" Sorry! The Number is not Armstrong, Better Luck Try again ;)");
         }
         sc.close();
     }
