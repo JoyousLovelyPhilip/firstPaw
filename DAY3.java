@@ -19,5 +19,6 @@ public class DAY3 {
         Bank bnk =new joooi();
         bnk.account();
         bnk.accountstatus();
+        bnk.blanky();
     }
 }
