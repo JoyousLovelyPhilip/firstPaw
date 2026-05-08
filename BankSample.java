@@ -5,7 +5,7 @@ public class BankSample {
 
         System.out.print("Enter Account Holder Name: ");
         String name = sc.nextLine();
-        System.out.print("Enter Initial Balance: ");
+        System.out.print("Enter Initial Balance amount: ");
         double balance = sc.nextDouble();
 
         int choice;
