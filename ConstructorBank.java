@@ -12,6 +12,7 @@ class Account{
             balance += amount;
             System.out.println("Amount Deposited Successfully");
             System.out.println("Updated Balance = "+ balance);
+            System.out.println("Hi sneaky cheek ");
         
         }
         else{
