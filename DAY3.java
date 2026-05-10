@@ -5,7 +5,7 @@ class Bank{
 }
     void accountstatus()
 {
-    System.out.println("Congratulations aadhaar and kRC attached");
+    System.out.println("Congratulations! aadhaar and kRC attached");
 } 
 }
 class joooi extends Bank{
