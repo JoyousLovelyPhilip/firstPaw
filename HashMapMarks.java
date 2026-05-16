@@ -11,7 +11,7 @@ public class HashMapMarks{
         marks.put("allwi", 340);
         marks.put("puthu", 450);
 
-        System.out.println("The Marks are: " +marks);
-        System.out.println("Mark of Dhanush : " + marks.get("dhanseh"));
+        System.out.println("The Marks are: " +marks);//the marks are printed
+        System.out.println("Mark of Dhanush : " + marks.get("dhanseh"));//danush key value is printed...anyone one o/p only works
     }
 }
