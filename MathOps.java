@@ -7,3 +7,4 @@ public class MathOps{
         System.out.println("The square root  is :" + Math.sqrt(39));
     }
 }
+ 
