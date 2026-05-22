@@ -6,7 +6,7 @@ public class ArmstrongDyna{
         int num = sc.nextInt();
         
         int original = num;
-        int count =0;
+        int count =0;//i guess its for number of iterations
         int sum= 0;
         
         int temp =num;
