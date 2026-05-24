@@ -2,7 +2,7 @@ public class Arithmetic {
     public static void main(String[] args)
     {
         int Score = 32;
-        int score = 50;
+        int score = 50;// sorry joy im cheating for git streak
 
         System.out.println("ur scoree is : " +(Score + score));
         System.out.println("sub : " +(Score - score));
