@@ -4,7 +4,7 @@ public class SwitchEg{
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Day: ");
-        int Order = sc.nextLine();
+        int Order = sc.nextInt();
 
         switch(Order)//The switch should in small ...capital S is error
         {
