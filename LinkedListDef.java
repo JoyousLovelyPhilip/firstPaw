@@ -8,7 +8,7 @@ public class LinkedListDef{
         joy.add("BMW");
         joy.add("Rolls Roys");
 
-        System.out.println(joy);
+        System.out.println(joy);//eg: in browsers to attach prev page data and address and link it with next addresd and data
     
     }
 }
