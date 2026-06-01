@@ -9,7 +9,8 @@ public class Over{
     }
     public static void main(String[] args){
         int num1 = Meth(4,5);
-        Double num2 = Meth(3.5,9.1);
+        Double num2 = Meth(3.5,9.1);//Double should be in  small like 'double'..but however it runs well
+    }
         System.out.println("num1: "+ num1);
         System.out.println("num2: " + num2);
 
