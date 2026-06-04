@@ -1,1 +1,20 @@
+file1: 
 
+public class Class1{
+     void name(String Myname)//When methods are static, you don't need to create an object You could call them directly:
+     {
+        System.out.println("name"+ Myname);
+    }
+    void prof(){
+        System.out.println("Im a Blooming kid by heart, navigating through young Adulthood");
+    }
+}
+
+file2:
+public class Class2{ 
+    public static void main(String [] args){
+    Class1 box = new Class1();
+    box.name(" JoyousLovelyPhilip");
+    box.prof();
+}//hurray! op:
+}
