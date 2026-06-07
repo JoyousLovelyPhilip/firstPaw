@@ -5,6 +5,6 @@ public class Test{
         if(LightsOn){
         System.out.println("The Light is ON");
         }
-        
+       //simple boolean example 
     }
 }
