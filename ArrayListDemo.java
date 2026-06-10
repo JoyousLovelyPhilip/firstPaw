@@ -8,6 +8,6 @@ public class ArrayListDemo{
         vandis.add("BMW");
         vandis.add("Rolls Roys");
 
-        System.out.println(vandis);
+        System.out.println(vandis);//just peaaakinboo
     }
 }
