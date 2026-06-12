@@ -7,7 +7,7 @@ public class Eg2{
          for (int i= 0;i < vayasugal.length;i++){
             if(vayasugal[i]> Older){
                 Older = vayasugal[i];
-            }
+            }// i did this on my own
          }
          System.out.println("The Oldest of all Ages:" + Older);// 90
     }
