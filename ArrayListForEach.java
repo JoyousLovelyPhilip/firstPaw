@@ -4,7 +4,7 @@ public class ArrayListForEach{
         
         ArrayList<Integer> vandis = new ArrayList <Integer>();
 
-        vandis.add(110801);//soory lazy edits
+        vandis.add(110801);//soory lazy edit
         vandis.add(110802);
         vandis.add(110803);
         vandis.add(110804);
