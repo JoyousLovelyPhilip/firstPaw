@@ -2,7 +2,7 @@ public class ThisEg1{
     int year;
     String name;
 
-    public ThisEg1(int year){
+    public ThisEg1(String name){
         this(2032, name );
     }
     public ThisEg1(int year, String name){
