@@ -1,5 +1,5 @@
 public class ThisEg1{
-    int year;
+    int year;// network issue
     String name;
 
     public ThisEg1(String name){
