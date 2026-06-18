@@ -6,5 +6,5 @@ public class numbu{
             fact *= i;
             System.out.println(fact);//720
         }
-    }  
+    }   
 }
