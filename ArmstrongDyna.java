@@ -10,7 +10,7 @@ public class ArmstrongDyna{
         int sum= 0;
         
         int temp =num;
-        while(temp !=0){
+        while(temp !=0){ 
             temp =temp /10;
             count++;
         }
