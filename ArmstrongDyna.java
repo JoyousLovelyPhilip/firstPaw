@@ -8,7 +8,7 @@ public class ArmstrongDyna{
         int original = num;
         int count =0;//i guess its for number of iterations
         int sum= 0;
-        
+         
         int temp =num;
         while(temp !=0){ 
             temp =temp /10;
