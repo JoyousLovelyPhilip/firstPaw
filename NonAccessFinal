@@ -1,0 +1,10 @@
+public class NonAccessFinal{
+    int pass= 23;
+    final double  pi = 3.14;
+
+public static void main(String[] args){
+    NonAccessFinal obj = new NonAccessFinal();
+    obj.pass = 34;
+    System.out.println(obj.pass);
+ }
+}
