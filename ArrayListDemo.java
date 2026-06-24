@@ -6,7 +6,7 @@ public class ArrayListDemo{
         vandis.add("Volvo");
         vandis.add("Audi");
         vandis.add("BMW");
-        vandis.add("Rolls Roys");
+        vandis.add("Rolls Roys");// lucky everytime gets my hand
 
         System.out.println(vandis);//just peaaakaboos
     }
