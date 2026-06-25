@@ -28,7 +28,7 @@ public class SwitchEg{
                 break;
             case 7:
                 System.out.println("Here is your Lemon Tea");
-                break;// output:Enter the Day: 6, Saturday
+                break;// output:- Enter the Day: 6, Saturday
             default :
                 System.out.println("Please Enter the Valid NUmber! ");
         }// A switch is used to provide alternate options to execute a condition or a block of codes
