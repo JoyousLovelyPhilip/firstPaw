@@ -15,7 +15,7 @@ public class SwitchEg{
                 System.out.println("Here is your Matcha Tea");
                 break;
             case 3:
-                System.out.println("Here is your INdian Chai Tea");
+                System.out.println("Here is your Indian Chai Tea");
                 break;
             case 4:
                 System.out.println("Here is your Latte");
