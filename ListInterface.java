@@ -8,6 +8,6 @@ List<String> vandis = new ArrayList<>();
         vandis.add("BMW");
         vandis.add("Rolls Roys");
 
-        System.out.println(vandis);
+        System.out.println(vandis);//output:Volvo, Audi, BMW, Rolls Roys
 }
 }
