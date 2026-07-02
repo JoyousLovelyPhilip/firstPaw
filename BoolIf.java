@@ -4,7 +4,7 @@ public class Test{
         boolean LightsOff = false;
         if(LightsOn){
         System.out.println("The Light is ON");
-        }
+        } 
        //simple boolean example 
     }
 }
