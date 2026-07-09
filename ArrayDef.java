@@ -7,4 +7,4 @@ public class ArrayDef{
         System.out.println("The Length of the Array is: "+ joii.length);
         System.out.println(Arrays.toString(joii));//regualr println statement is not returning the elelments only returns the Memory referenc so..import Arrays and type toString to print the String
     }
-}
+} 
