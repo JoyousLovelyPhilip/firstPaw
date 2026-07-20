@@ -6,7 +6,7 @@ public class DailyTask7{
         int celsious = sc.nextInt();
 
         int farenheit = (celsious * 9/5)+ 32;
-        System.out.println("The Temp in Farenheit: " + farenheit);
+        System.out.println("The Temp in Farenheit: " +farenheit);
         sc.close();  
     }
 }
