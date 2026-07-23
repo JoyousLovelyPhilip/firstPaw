@@ -24,6 +24,6 @@ public class Stringdemo1{
             }
         }
         System.out.println("Alphabet: " +alphabet);
-        System.out.println("Digits:" + digits);
+        System.out.println("Digits:" + digits);//Joyous
     }
 }
