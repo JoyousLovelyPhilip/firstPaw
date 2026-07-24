@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;//note: arraylist is not imported
 public class DSAlgorithmSearching{
     public static void main(String[] args){
         var happy =new ArrayList<String>();//you dont have to import ArrayList separately when you use var
