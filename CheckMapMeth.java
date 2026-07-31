@@ -7,7 +7,7 @@ public class CheckMapMeth{
         JoyTry.put("Lovely","Loveliest to Soul");
         JoyTry.put("Philip V Pandian", "oopsie! I dono the meaning, but Absolutely the Ruler of Our Family nxt to God");
 
-        JoyTry.remove("Joyous");
+        JoyTry.remove("Joyous");//joy or when the key is misspelled it will give out a error
         JoyTry.clear();
         System.out.println("THE HASHMAP SAMPLE:" + JoyTry.size());
 
