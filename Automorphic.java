@@ -24,4 +24,4 @@ public class Automorphic{
             System.out.println("The Number is not Automorphic");
         }
     }
-}
+}// Automorphic can be refered as when the square of a number returns the value same number on its ending is stated as automorphic. eg square of 25 is 625 ...where 25 is ended in 625
