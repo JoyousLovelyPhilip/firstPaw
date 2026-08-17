@@ -8,7 +8,7 @@ public class Armstrong{
         int original = num; 
         int sum =0;
         while(num!= 0){
-            int digit = num % 10; 
+            int digit = num % 10;  
             sum = sum +(digit* digit*digit);
             num = num / 10;
         }
