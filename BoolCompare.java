@@ -4,7 +4,7 @@ public class boolCompare{
         int o = 45;
 
         System.out.println(x < o);//true
-        System.out.println(x== 21);//false
+        System.out.println(x== 21);//false 
         
         
     }
