@@ -17,8 +17,8 @@ public class MoveZero {
                 index++;
             }
         }
-        // Fill remaining positions with zeros
-        while (index < n) {
+        while (index < n)// Fill remaining positions with zeros
+            {
             arr[index] = 0;
             index++;
         }
