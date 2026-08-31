@@ -6,7 +6,7 @@ public class Armstrong{
         int num = sc.nextInt();
         
         int original = num; 
-        int sum =0;
+        int sum =0; 
         while(num!= 0){
             int digit = num % 10;  
             sum = sum +(digit* digit*digit);
