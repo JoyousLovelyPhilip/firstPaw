@@ -1,4 +1,4 @@
-public class Minmax
+public class Minmax// joy edits
 {
     public static void main(String[] args){
         int[] nums ={239,445,678,89,898,345,234};
