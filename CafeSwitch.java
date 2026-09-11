@@ -6,7 +6,7 @@ public class SwitchEg{
         System.out.println("Enter the Day: ");
         int Order = sc.nextInt();
 
-        switch(Order)//The switch should in small ...capital S is error
+        switch(Order)//The switch should in small ...capital S is a error
         {
             case 1:
                 System.out.println("Here is your Bobba Tea");
