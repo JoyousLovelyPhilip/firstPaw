@@ -5,7 +5,8 @@ public class Tree{
             for (int j = i; j< row; j++ ){
                 System.out.print(" ");
             }
-            for(int j =1;j<=(2* (i-1));j++){
+            for(int j =1;j<=(2* i-1);j++)//if you add brackets for (i-1)the output changes and the tree might start from 2 not 1.
+            {
                 System.out.print("*");
             }
 
