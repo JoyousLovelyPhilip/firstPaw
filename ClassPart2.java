@@ -1,6 +1,6 @@
 public class ClassPart2{
     
-    String go = "Jois";
+    String go = "Joyous";
 public static void main(String[] args)
 {
         ClassPart2 goe = new ClassPart2();
