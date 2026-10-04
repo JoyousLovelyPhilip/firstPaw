@@ -1,4 +1,5 @@
-class Student {
+class Student //streak kill
+{
     String name;
     int age;
     void display() {
