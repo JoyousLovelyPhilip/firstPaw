@@ -18,13 +18,12 @@ public class Peterson{
             }
             sum += fact;
             num = num/10;
-
         }
         if(sum ==Original){
             System.out.println("It is Peterson Nnum goiss!");
         }
         else{
             System.out.println("It is not Peterson");
-        }
+        }//Enter the Number: 123, It is not Peterson
     }
 }
