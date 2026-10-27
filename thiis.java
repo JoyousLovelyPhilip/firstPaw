@@ -8,7 +8,7 @@ public class thiis{
 
     }
     public static void main(String[] args){
-        thiis obj = new thiis(22, "Happpy ");
+        thiis obj = new thiis(22, "Happy ");
         System.out.println("name: "+ obj.Myname +" age: "+ obj.MyAge);
     }
 }
