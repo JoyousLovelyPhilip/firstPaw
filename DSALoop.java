@@ -2,10 +2,10 @@ import java.util.*;
 public class DSALoop{
     public static void main(String[] args){
         var happy =new ArrayList<Integer>();
-        happy.add(34);
-        happy.add(23);
-        happy.add(12);
-        happy.add(260);
+        happy.add(35);
+        happy.add(21);
+        happy.add(26);
+        happy.add(45);
 
         var it = happy.iterator();
         while(it.hasNext()){
